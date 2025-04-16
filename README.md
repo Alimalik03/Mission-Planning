@@ -13,3 +13,10 @@ This repository contains utility scripts for processing UAV waypoint data, conve
 | `Test_WP.csv`                     | Alternate CSV file for waypoint testing       |
 | `Waypoints_com.py`                | Main script to parse and combine waypoints    |
 
+## Mission Waypoints Outputs
+
+### Test_WP.csv – Mission Overview
+![Test WP Mission](./Test_WP_mission.png)
+
+### test waypoints(Sheet1).csv – Mission Overview
+![Sheet1 Mission](./test%20waypoints(Sheet1)_mission.png)
