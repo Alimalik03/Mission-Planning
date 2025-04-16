@@ -4,7 +4,6 @@ This repository contains utility scripts for processing UAV waypoint data, conve
 
 ## Folder Structure
 
-```text
 Scripts/
 ├── competition_simulation_1.waypoints   # Example mission file
 ├── convert_to_csv.py                    # Converts waypoint files to CSV format
